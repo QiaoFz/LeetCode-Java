@@ -1,4 +1,4 @@
-package second;
+package _2;
 
 public class ListNode {
     int val;
