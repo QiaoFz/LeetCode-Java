@@ -79,7 +79,7 @@ public class Solution {
      *
      *     int[] values = {1000,900,500,400,100,90,50,40,10,9,5,4,1};
      *     String[] strs = {"M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"};
-     *     枚举所有结果，一个一个除就好了
+     *     枚举所有结果，一个一个减就好了
      */
     public String intToRoman(int num) {
         StringBuilder sb = new StringBuilder();
