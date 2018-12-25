@@ -49,7 +49,7 @@ public class Solution {
             case '9':
                 return nine;
             default:
-                return new char[];
+                return null;
         }
     }
 
